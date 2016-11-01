@@ -1,0 +1,5 @@
+Primeiro arquivo do TesteGit.
+
+Aprendendo a usar o github.
+
+Alteração.
